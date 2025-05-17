@@ -1,3 +1,1 @@
-print("everybody")
-print("welcome")
-
+print("hello world")
